@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello world for github orginal from GIT
-=======
-hello world 
-GITHIB
->>>>>>> b10dc694016a99873e32afd2f7211f39ba60cdc7
+hello world GITHUB$$
