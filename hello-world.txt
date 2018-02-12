@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+hello world GITHUB branch test
+=======
 hello world GITHUB branch testing
+>>>>>>> 49bfe1642422f5430d347ba16d3a36fb8e3babf0
